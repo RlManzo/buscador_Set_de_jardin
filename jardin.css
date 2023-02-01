@@ -1,0 +1,36 @@
+body{
+    background-color:#fffaf2;
+}
+
+.card{
+    
+    margin-bottom: 20px;
+    margin-left: 35px;
+}
+.hHeader{
+    padding-left: 50px;
+}
+
+.img{
+    margin-left: -12px;
+    width: 286px;
+}
+.botonStyle{
+    margin-bottom: 10px;
+}
+.logo{
+margin-left: 20px;
+width: 43px;
+
+}
+.buscador{
+    margin-right: 10px;
+    padding-left:30px;
+}
+.setStyles{
+    background-color:#e3c1ff ;
+    color: white;
+}
+.resultado{
+    margin-right:30px;
+}
