@@ -104,9 +104,9 @@ const filtrar = () =>{
                         <br>
                         <h6 class="card-title">Motivo: ${producto.diseño} </h5>
                         
-                        <button class="btn btn-primary disabled botonStyle"><p class="card-text">Precio 3 piezas: $1500 </p>
+                        <button class="btn btn-primary disabled botonStyle"><p class="card-text">Precio 3 piezas: $4.500 </p>
                     
-                        <button  class="btn btn-danger disabled"><p class="card-text">Precio 4 piezas(taza): $1800</p>
+                        <button  class="btn btn-danger disabled"><p class="card-text">Precio 4 piezas(taza): $6.000</p>
                     </div>
                 </div>
                 `
