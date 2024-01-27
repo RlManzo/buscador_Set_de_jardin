@@ -2,6 +2,12 @@ body{
     background-color:#fffaf2;
 }
 
+
+.nav-color-24{
+    background: rgb(34,193,195);
+background: linear-gradient(58deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
+}
+
 .card{
     
     margin-bottom: 20px;
@@ -17,20 +23,28 @@ body{
 }
 .botonStyle{
     margin-bottom: 10px;
+    background-color:#8716e4a8 ;
+    color: aliceblue;
 }
+
 .logo{
 margin-left: 20px;
 width: 43px;
-
+border-radius: 50%;
 }
 .buscador{
     margin-right: 10px;
     padding-left:30px;
 }
 .setStyles{
-    background-color:#e3c1ff ;
+    background-color:#8716e4a8 ;
     color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
 }
+
+
 .resultado{
     margin-right:30px;
 }
